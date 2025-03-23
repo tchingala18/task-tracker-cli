@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "description": "Comprar leite e p\u00e3o",
+        "status": "done",
+        "createdAt": "2025-03-23T10:43:33.657182",
+        "updatedAt": "2025-03-23T10:46:10.200104"
+    },
+    {
+        "id": 2,
+        "description": "Comprar p\u00e3o ",
+        "status": "in-progress",
+        "createdAt": "2025-03-23T10:44:01.915490",
+        "updatedAt": "2025-03-23T10:45:37.759046"
+    },
+    {
+        "id": 3,
+        "description": "Comprar fazer bolo",
+        "status": "todo",
+        "createdAt": "2025-03-23T10:44:18.295104",
+        "updatedAt": "2025-03-23T10:44:18.295136"
+    }
+]
