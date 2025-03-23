@@ -148,9 +148,6 @@ Este projeto é de código aberto e pode ser usado livremente.
 Feito com ❤️ por Carlitos Tchingala (https://github.com/tchingala18)
 ```
 
-
-Here is the translated **README.md** file in English:  
-
 ---
 
 ## 📝 **README.md**  
